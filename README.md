@@ -1,6 +1,7 @@
 # Testing-Model-With-Active-Market-Time
 
 The purpose of this work is to check one of the mathematical models of financial markets (the model with active market time) for adequacy from the point of view of calculating VaR and comparing it with the threshold value.
+
 What was done: 
 1. description and preparation of the data used;
 2. determination of parameters for further calculations;
